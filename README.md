@@ -37,4 +37,5 @@ The project follows a **multi-page navigation structure**, with separate HTML fi
 Overall, this project serves as a strong foundation for an e-learning interface and can be extended with backend integration, authentication, quizzes, and certificates in the future.
 
 *OUPUT*
+![image alt](https://github.com/RoshiniRamachandran/E-LEARNING-PLATFORM-UI/blob/04ce61bf8a29a6387cefda3071549fd1fa52978f/Screenshot%20(9).png)
 ![image alt](
