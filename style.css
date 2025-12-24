@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6fb;
+}
+
+header {
+  background: #5a2d82;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.course-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.course-card {
+  background: white;
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.course-card h3 {
+  color: #5a2d82;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #7a3db8;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.course-detail {
+  padding: 30px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.progress-section {
+  padding: 40px;
+  text-align: center;
+}
+
+.progress-bar {
+  width: 60%;
+  height: 25px;
+  background: #ddd;
+  margin: auto;
+  border-radius: 20px;
+}
+
+#progressFill {
+  height: 100%;
+  width: 0%;
+  background: #7a3db8;
+  border-radius: 20px;
+}
