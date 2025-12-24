@@ -38,4 +38,4 @@ Overall, this project serves as a strong foundation for an e-learning interface 
 
 *OUPUT*
 ![image alt](https://github.com/RoshiniRamachandran/E-LEARNING-PLATFORM-UI/blob/04ce61bf8a29a6387cefda3071549fd1fa52978f/Screenshot%20(9).png)
-![image alt](
+![image alt](https://github.com/RoshiniRamachandran/E-LEARNING-PLATFORM-UI/blob/bf5bfd2ecba2a480bdae2a98e4859c1e7c6eb7a9/Screenshot%20(10).png)
